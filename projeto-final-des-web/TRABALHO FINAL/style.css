@@ -1,0 +1,13 @@
+body {
+    background-color: #b4b2b2; 
+}
+
+.character-card {
+    background-color: #ffffff; 
+    border-radius: 8px; 
+    overflow: hidden; 
+}
+
+section {
+    padding-bottom: 30px;
+}
